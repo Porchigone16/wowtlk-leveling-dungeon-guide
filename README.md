@@ -40,4 +40,5 @@
 - Nivel: 78 - 80
 - Ubicación: The Storm Peaks / Las Cumbres Tormentosas
 - Runs: 2 - 3
-- Quests: [alls of Lightning Quests](./Data/HallsOfLightning/HallsOfLightning.md)
+- Quests: [Halls of Lightning Quests](./Data/HallsOfLightning/HallsOfLightning.md)
+
