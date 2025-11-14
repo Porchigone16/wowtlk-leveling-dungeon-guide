@@ -1,6 +1,6 @@
 # Azjol-Nerub Quests
 
-### [Volver al Menú](../../Main.md)
+### [Volver al Menú](../../README.md)
 
 ## Misiones
 
